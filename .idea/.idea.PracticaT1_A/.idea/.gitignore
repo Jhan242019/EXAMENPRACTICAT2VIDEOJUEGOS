@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/.idea.PracticaT1_A.iml
+/modules.xml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\ESTUDIOS\UPN\CICLO VIII\VIDEOJUEGOS Y APLICACIONES MÓVILES\JUEGOS 2D\SEMANA5\PracticaT1_A\.idea\.idea.PracticaT1_A\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
